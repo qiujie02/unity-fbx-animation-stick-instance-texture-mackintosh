@@ -1,0 +1,1 @@
+# unity-fbx-animation-stick-instance-texture-mackintosh

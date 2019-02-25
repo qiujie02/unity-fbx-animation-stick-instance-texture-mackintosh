@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/fbx-animation-stick-instance-texture.unity
+  isLoaded: 1
+  isActive: 1
